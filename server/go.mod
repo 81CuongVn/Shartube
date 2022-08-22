@@ -3,11 +3,11 @@ module github.com/Folody-Team/Shartube
 go 1.18
 
 require (
-	github.com/99designs/gqlgen v0.17.13
+	github.com/99designs/gqlgen v0.17.14
 	github.com/cosmtrek/air v1.40.4
 	github.com/joho/godotenv v1.4.0
 	github.com/mitchellh/mapstructure v1.3.1 // indirect
-	github.com/vektah/gqlparser/v2 v2.4.7
+	github.com/vektah/gqlparser/v2 v2.4.8
 	go.mongodb.org/mongo-driver v1.10.0
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 )
